@@ -15,7 +15,7 @@ Directory structure of the web app is as follows:
 
 ## Instructions for initializing web app:
 
-- Install Node JS, MongoDB to your compiler (VSCode)
+- Install Node JS, MongoDB to your compiler (VSCode): run "npm install" to install Node
 - Move inside backend directory: `cd backend`
 - Install dependencies in backend directory: `npm install`
 - Start express server: `npm start`
